@@ -24,7 +24,7 @@ This tool helps in automating the process of generating GOV backlinks for SEO pu
 This project provides an automated GOV backlinks generator for SEO professionals looking to enhance their website's authority and trust in Google's eyes.
 
 <p align="center">
-<img src="gov backlinks generator" alt="gov backlinks generator" width="100%">
+<img src="gov backlink generator" alt="gov backlink generator" width="100%">
 </p>
 
 ### Key Benefits
